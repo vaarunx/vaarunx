@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=vaarunx&label=Views&style=flat-square)
+![](https://komarev.com/ghpvc/?username=vaarunx&label=Views&style=flat-square&abbreviated=true&base=100)
 
 <!--
 **vaarunx/vaarunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
